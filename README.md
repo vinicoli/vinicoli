@@ -8,11 +8,11 @@
 
 - 🔥  Electrical Engineering Student & Beginner Web Developer
 
-- 🔭 I’m currently working on [Allian Engenharia](https://allian.com.br/) as PV systems designer
+<!-- - 🔭 I’m currently working on [Allian Engenharia](https://allian.com.br/) as PV systems designer -->
 
 - 👨‍💻 You can know more about my carreer at [LinkedIn](https://www.linkedin.com/in/vinicoli/)
 
-- 🌱 I'm learning **JavaScript, HTML, CSS, SQL, Node.JS**
+- 🌱 I'm learning **HTML, CSS, SQL, Python, Django**
 
 - 💬 I'm interested in **ML, Python, Django, etc.**
 
@@ -22,9 +22,11 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; -->
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/python-05122A?style=flat&logo=python&logoColor=ffdd54)&nbsp;
+![Django](https://img.shields.io/badge/django-05122A?style=flat&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
